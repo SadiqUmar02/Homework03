@@ -17,5 +17,5 @@ The password is then written to the page
 Contributing:
 Anyone can contribute.
 
-CONTACT: S
-adiq Umar - TWITTER: @sadiqumarajiya7 - EMAIL: Sadiqumarajiya123@gmail.com PROJECT LINK:https://github.com/SadiqUmar02/Homework01.git
+CONTACT: 
+Sadiq Umar - TWITTER: @sadiqumarajiya7 - EMAIL: Sadiqumarajiya123@gmail.com PROJECT LINK:https://github.com/SadiqUmar02/Homework01.git
